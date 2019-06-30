@@ -60,8 +60,6 @@ export function NavBar () {
     </div>
   )
 
-  console.log(logic.isUserAdmin)
-
   return (
     <nav className='navbar' role='navigation' aria-label='main navigation'>
       <div className='navbar-brand'>
