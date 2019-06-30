@@ -1,1 +1,0 @@
-web: cd gelato-errors; rm -rf node_modules;npm i -f; cd ../gelato-validation; rm -rf node_modules; npm i -f; cd ../gelato-data; rm -rf node_modules;npm i -f; cd ../gelato-api; rm -rf node_modules;npm i -f; npm i -f dotenv bcrypt; npm start
